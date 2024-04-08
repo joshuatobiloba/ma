@@ -1,0 +1,54 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+img{
+	max-width: 200px;
+	float: left;
+	border: 3px solid #fff;
+	border-radius: 10px;
+	margin-right: 15px;
+}
+
+#about_us{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	background: #6B240C;
+}
+
+.wrapper{
+	margin: 150px auto;
+	width: 70%;
+}
+
+.text-box{
+	color: #fff;
+}
+
+.text-box h2{
+	font-size: 32px;
+	padding-top: 50px;
+	font-family: "Rubik Doodle Shadow", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.text-box h6{
+	font-size: 22px;
+	padding-top: 50px;
+	padding-bottom: 20px;
+	font-family: "Outfit", sans-serif;
+  	font-optical-sizing: auto;
+  	font-weight: 300px;
+  	font-style: normal;
+}
+
+.text-box p{
+	font-size: 16px;
+	font-family: "Outfit", sans-serif;
+  	font-optical-sizing: auto;
+  	font-weight: 300px;
+}
